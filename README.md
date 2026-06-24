@@ -167,7 +167,7 @@ model.train(
 |---|---|
 | Yash Raj | Model Training, Detection Pipeline |
 | Aditya Kumar | Collaborator |
-| Khusi Aditi | Collaborator |
+| Khushi Aditi | Collaborator |
 
 **Institution:** KCC Institute of Technology and Management, Greater Noida  
 **Branch:** B.Tech CSE (AI & ML) — Batch 2029
