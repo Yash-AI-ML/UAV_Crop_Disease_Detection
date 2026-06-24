@@ -1,0 +1,17 @@
+# Dataset
+Multi-Crop Disease Dataset/train/
+Multi-Crop Disease Dataset/valid/
+Multi-Crop Disease Dataset/test/
+
+# Weights
+*.pt
+runs/
+
+# Screenshots & images
+*.png
+*.jpg
+*.jpeg
+
+# Python cache
+__pycache__/
+*.pyc
