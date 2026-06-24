@@ -86,7 +86,7 @@ UAV-Crop_disease_detection/
 
 | File | Link |
 |---|---|
-| Trained Weights (`best.pt`) | [Download from Google Drive](#) |
+| Trained Weights (`best.pt`) | [Download from Google Drive](https://drive.google.com/file/d/1RfDHQ3gm__V3zgx8sxGLC-tARz6s9ac3/view?usp=drive_link) |
 | Full Dataset (42K images) | [Roboflow Project](https://app.roboflow.com/multicrop-disease/custom-workflow-object-detection-2nqxa) |
 
 > Replace `#` with your actual Google Drive link after uploading `best.pt`
